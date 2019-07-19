@@ -110,4 +110,5 @@
   * [mac: FB發文如何「空格」及「換行」](qi-ta/mac-fb-wen-ru-he-kong-ge-ji-hang.md)
   * [static的意義  \(C/ C++\)](qi-ta/static-de-yi-cc++.md)
   * [ObjC: enumerateObjectsUsingBlock](qi-ta/objc.md)
+* [UIView: ScaleToFill、ScaleAspectFit、ScaleAspectFill](uiview-scaletofill-scaleaspectfit-scaleaspectfill.md)
 
