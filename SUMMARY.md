@@ -24,7 +24,7 @@
   * [如何移除3D Touch Quick Actions\(Dynamic\)的特定元素](study/ru-he-yi-chu-3d-touch-quick-actionsdynamic-de-te-ding-yuan-su.md)
   * [開啟safari瀏覽網址](study/safari-zhi.md)
   * [調整UILabel文字的行\(上下\)間距](study/zheng-uilabel-wen-zi-de-hang-shang-xia-ju.md)
-  * [UIView: 各種縮放模式](study/uiview-scaletofill-scaleaspectfit-scaleaspectfill.md)
+  * [UIView: 各種縮放模式\(ScaleToFill、ScaleAspectFit、ScaleAspectFill\)](study/uiview-scaletofill-scaleaspectfit-scaleaspectfill.md)
   * [取得打電話的狀態](study/qu-de-da-de.md)
   * [實作checkbox](study/zuo-checkbox.md)
   * [initial view controller的選擇](study/initial-view-controller-de.md)
