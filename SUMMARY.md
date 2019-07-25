@@ -25,6 +25,7 @@
   * [開啟safari瀏覽網址](study/safari-zhi.md)
   * [調整UILabel文字的行\(上下\)間距](study/zheng-uilabel-wen-zi-de-hang-shang-xia-ju.md)
   * [UIView: 各種縮放模式\(ScaleToFill、ScaleAspectFit、ScaleAspectFill\)](study/uiview-scaletofill-scaleaspectfit-scaleaspectfill.md)
+  * [UIImage上面加一個浮水印](study/uiimage-shang-mian-jia-yi-ge-fu-shui-yin.md)
   * [取得打電話的狀態](study/qu-de-da-de.md)
   * [實作checkbox](study/zuo-checkbox.md)
   * [initial view controller的選擇](study/initial-view-controller-de.md)
