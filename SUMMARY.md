@@ -59,7 +59,6 @@
     * [解析JSON資料](study/wang-lu-xia-zai-zi-liao/untitled-2.md)
     * [網路下載資料1. Data](study/wang-lu-xia-zai-zi-liao/lu-xia-pian.md)
     * [網路下載資料2. URLSession](study/wang-lu-xia-zai-zi-liao/urlsession-lu-xia-liao.md)
-    * [URLSession相關](study/wang-lu-xia-zai-zi-liao/urlsession-xiang-guan.md)
   * [FB](study/fb/README.md)
     * [Facebook SDK for Login](study/fb/facebook-sdk-for-login.md)
   * [UIActivityViewController](study/uiactivityviewcontroller/README.md)
