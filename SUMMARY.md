@@ -59,6 +59,7 @@
     * [解析JSON資料](study/wang-lu-xia-zai-zi-liao/untitled-2.md)
     * [網路下載資料1. Data](study/wang-lu-xia-zai-zi-liao/lu-xia-pian.md)
     * [網路下載資料2. URLSession](study/wang-lu-xia-zai-zi-liao/urlsession-lu-xia-liao.md)
+    * [URLSession相關](study/wang-lu-xia-zai-zi-liao/urlsession-xiang-guan.md)
   * [FB](study/fb/README.md)
     * [Facebook SDK for Login](study/fb/facebook-sdk-for-login.md)
   * [UIActivityViewController](study/uiactivityviewcontroller/README.md)
@@ -106,6 +107,7 @@
   * [forEach用法](exercise-problems/foreach-yong-fa.md)
   * [Set與Array的相互轉換](exercise-problems/setarray-de-xiang-hu.md)
   * [字串反轉](exercise-problems/zi-chuan-fan.md)
+  * [陣列的 joinWithSeparator用法](exercise-problems/zhen-lie-de-joinwithseparator-yong-fa.md)
   * [陣列中的陣列排序](exercise-problems/lie-zhong-de-lie-pai-xu.md)
 * [Tools](tools/README.md)
   * [icon製作](tools/icon-zuo.md)
@@ -116,4 +118,5 @@
   * [mac: FB發文如何「空格」及「換行」](qi-ta/mac-fb-wen-ru-he-kong-ge-ji-hang.md)
   * [static的意義  \(C/ C++\)](qi-ta/static-de-yi-cc++.md)
   * [ObjC: enumerateObjectsUsingBlock](qi-ta/objc.md)
+* [SQLite](sqlite.md)
 
