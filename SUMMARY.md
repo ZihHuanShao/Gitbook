@@ -41,6 +41,7 @@
     * [segue傳值](study/zhuan-chang-tui-ye-xiang-guan/segue-zhi.md)
     * [Unexpectedly found nil while unwrapping an Optional value 關於storyboard推頁](study/zhuan-chang-tui-ye-xiang-guan/unexpectedly-found-nil-while-unwrapping-an-optional-value-guan-wu-storyboard-tui-ye.md)
   * [IO相關](study/io-xiang-guan/README.md)
+    * [取得sandbox底下的video檔](study/io-xiang-guan/qu-de-sandbox-di-xia-de-video-dang.md)
     * [Swift檔案路徑](study/io-xiang-guan/swift-dang-an-lu-jing.md)
     * [取得file檔案大小](study/io-xiang-guan/qu-de-file-dang-an-da-xiao.md)
   * [UserDefault](study/userdefault/README.md)
