@@ -109,6 +109,8 @@
   * [字串反轉](exercise-problems/zi-chuan-fan.md)
   * [陣列的 joinWithSeparator用法](exercise-problems/zhen-lie-de-joinwithseparator-yong-fa.md)
   * [陣列中的陣列排序](exercise-problems/lie-zhong-de-lie-pai-xu.md)
+  * [Int64 ➜ Int](exercise-problems/int64-int.md)
+  * [Data大小](exercise-problems/untitled.md)
 * [Tools](tools/README.md)
   * [icon製作](tools/icon-zuo.md)
   * [\(fastlane\) 從App Store Connect下載metadata](tools/fastlane-app-store-connect-xia-metadata.md)
