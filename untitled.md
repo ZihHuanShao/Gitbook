@@ -1,0 +1,68 @@
+# NSLayoutConstraint參數說明
+
+```swift
+// Function Prototype
+NSLayoutConstraint(
+    // 要約束的對象，可以是button、label、image view等等
+    item: Any,
+    
+    // 要對約束對象的屬性進行設定，屬性包括如leading、trailing、top、centerX等等
+    attribute: NSLayoutConstraint.Attribute, 
+    
+    // 兩個attribute之間的關係，如.equal、.greaterThanOrEqual、lessThanOrEqual等等
+    relatedBy: NSLayoutConstraint.Relation,
+    
+    // 約束對象的參考物件(也可以想成：約束對象相對於參考物件的位置)，可以是button、label、image view等等
+    toItem: Any, 
+    
+    // 約束對象參考物件的屬性，屬性包括如leading、trailing、top、centerX等等
+    attribute: SLayoutConstraint.Attribute, 
+    
+    // 與後者attribute相乘積，加上constant值，再指定給約束對象
+    // item = multiplier * attribute + constant
+    // 讓約束對象做一個線性的操作(如果運用在可以滑動的頁面，會造成動畫效果)
+    multiplier: CGFloat, 
+    
+    // 相對於toItem的偏移量
+    constant: CGFloat
+)
+
+
+// Example：myButton的中央X軸位置，會對齊相對於myImageView的左邊起始位置
+NSLayoutConstraint(
+    item:       myButton,
+    attribute:  .CenterX, 
+    relatedBy:  .equal,
+    toItem:     myImageView,, 
+    attribute:  .leading, 
+    multiplier: 1.0, 
+    constant:   0
+)
+
+
+// Example：myButton左邊的起始位置，會對齊相對於myImageView的左邊起始位置，再往右邊偏移10個單位
+NSLayoutConstraint(
+    item:       myButton,
+    attribute:  .leading, 
+    relatedBy:  .equal,
+    toItem:     myImageView,, 
+    attribute:  .leading, 
+    multiplier: 1.0, 
+    constant:   myImageView.frame.width + 10
+)
+```
+
+## Ref.
+
+{% embed url="https://medium.com/@denkeni/%E7%B4%94%E7%A8%8B%E5%BC%8F%E7%A2%BC-auto-layout-%E8%88%87%E6%A6%82%E8%A6%81%E6%95%99%E5%AD%B8-%E4%B8%80-6077dd73dd3f" %}
+
+{% embed url="https://www.appcoda.com.tw/auto-layout-programmatically/" %}
+
+{% embed url="https://shenfive.pixnet.net/blog/post/58766426-autolayout-%282%29-%E6%89%8B%E5%8B%95%E5%BB%BA%E7%AB%8B-nslayoutconstraint" %}
+
+## Ref. for using
+
+{% embed url="https://stackoverflow.com/questions/26180822/how-to-add-constraints-programmatically-using-swift" %}
+
+
+

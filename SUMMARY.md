@@ -24,7 +24,9 @@
   * [實作checkbox](study/zuo-checkbox.md)
   * [initial view controller的選擇](study/initial-view-controller-de.md)
   * [CollectionView](study/collectionview/README.md)
+    * [從CollectionViewCell裡的button取得Indexpath](study/collectionview/cong-collectionviewcell-li-de-button-qu-de-indexpath.md)
     * [如何顯示CollectionView的Header](study/collectionview/ru-he-shi-collectionview-de-header.md)
+    * [UICollectionView的高度自動調整為UICollectionViewCell的高度](study/collectionview/uicollectionview-de-gao-du-zi-dong-diao-zheng-wei-uicollectionviewcell-de-gao-du.md)
   * [Audio相關](study/audio-xiang-guan/README.md)
     * [Record 錄音功能](study/audio-xiang-guan/record.md)
     * [Audio play 音訊播放功能](study/audio-xiang-guan/audio-play.md)
@@ -121,4 +123,5 @@
   * [static的意義  \(C/ C++\)](qi-ta/static-de-yi-cc++.md)
   * [ObjC: enumerateObjectsUsingBlock](qi-ta/objc.md)
 * [SQLite](sqlite.md)
+* [NSLayoutConstraint參數說明](untitled.md)
 

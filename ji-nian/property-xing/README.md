@@ -2,10 +2,11 @@
 
 屬性\(`property`\)為特定型別\(類別、結構或列舉\)的值，有以下幾種使用方式：
 
-* 儲存屬性\(`stored property`\)：在實體內儲存常數或變數，可以用於類別及結構。可用property observers
-* 計算屬性\(`computed property`\)：在實體內計算一個值，可以用於類別、結構及列舉
-* 型別屬性\(`type property`\)：與前兩個不同，這是屬於**型別本身**的屬性
-* 屬性觀察器\(`property observer`\)：用來觀察屬性值的變化，並以此觸發一個自定義的操作
+* 儲存屬性\(`stored property`\)：在實體內儲存常數或變數，可以用於類別及結構。可用`property observers`，有`willSet`與`didSet`可以使用
+* `lazy property`：呼叫到該lazy物件時才會被初始化，但`lazy`只會執行一次
+* 計算屬性\(`computed property`\)：跟`lazy`很像，但會反覆計算
+* 型別屬性\(`type property`\)：與前兩個不同，這是屬於**型別本身**的屬性。關鍵字是`static`，確保`Class`或`Struct`只有一個單例\(singleton\)
+* 屬性觀察器\(`property observer`\)：用來觀察屬性值的變化，並以此觸發一個自定義的操作。
 
 參考１：
 
