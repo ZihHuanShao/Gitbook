@@ -28,7 +28,7 @@ NSLayoutConstraint(
 )
 
 
-// Example：myButton的中央X軸位置，會對齊相對於myImageView的左邊起始位置
+// Example1：myButton的中央X軸位置，會對齊相對於myImageView的左邊起始位置
 NSLayoutConstraint(
     item:       myButton,
     attribute:  .CenterX, 
@@ -39,8 +39,7 @@ NSLayoutConstraint(
     constant:   0
 )
 
-
-// Example：myButton左邊的起始位置，會對齊相對於myImageView的左邊起始位置，再往右邊偏移10個單位
+// Example2：myButton左邊的起始位置，會對齊相對於myImageView的左邊起始位置，置於一個view的寬度大小再加上往右邊偏移10個單位的位置
 NSLayoutConstraint(
     item:       myButton,
     attribute:  .leading, 
@@ -50,7 +49,23 @@ NSLayoutConstraint(
     multiplier: 1.0, 
     constant:   myImageView.frame.width + 10
 )
+
+// Example3：multiplier數值的套用效果，newImageView左邊的起始位置，會對齊相對於myImageView的左邊起始位置，置於一個view的寬度大小後的位置
+// 效果可以參考下面附檔
+NSLayoutConstraint(
+    item:       newImageView,
+    attribute:  .leading, 
+    relatedBy:  .equal,
+    toItem:     myImageView,, 
+    attribute:  .leading, 
+    multiplier: 2.0, 
+    constant:   myImageView
+)
 ```
+
+Example3 效果：
+
+{% file src=".gitbook/assets/rpreplay\_final1565916472.mp4" %}
 
 ## Ref.
 
