@@ -1,3 +1,7 @@
+---
+description: 透過程式碼來設定UI元件的auto layout
+---
+
 # NSLayoutConstraint參數說明
 
 ```swift
@@ -18,8 +22,8 @@ NSLayoutConstraint(
     // 約束對象參考物件的屬性，屬性包括如leading、trailing、top、centerX等等
     attribute: SLayoutConstraint.Attribute, 
     
-    // 與後者attribute相乘積，加上constant值，再指定給約束對象
-    // item = multiplier * attribute + constant
+    // multiplier與後者attribute相乘積，加上constant值，再指定給約束對象
+    // 線性關係(y = mx + c)：item = multiplier * attribute + constant
     // 讓約束對象做一個線性的操作(如果運用在可以滑動的頁面，會造成動畫效果)
     multiplier: CGFloat, 
     
