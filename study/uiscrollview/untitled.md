@@ -7,19 +7,19 @@ description: 透過程式碼來設定UI元件的auto layout
 ```swift
 // Function Prototype
 NSLayoutConstraint(
-    // 要約束的對象，可以是button、label、image view等等
+    // 要約束的物件，可以是button、label、image view等等
     item: Any,
     
-    // 要對約束對象的屬性進行設定，屬性包括如leading、trailing、top、centerX等等
+    // 要對約束物件的屬性進行設定，屬性包括如leading、trailing、top、centerX等等
     attribute: NSLayoutConstraint.Attribute, 
     
     // 兩個attribute之間的關係，如.equal、.greaterThanOrEqual、lessThanOrEqual等等
     relatedBy: NSLayoutConstraint.Relation,
     
-    // 約束對象的參考物件(也可以想成：約束對象相對於參考物件的位置)，可以是button、label、image view等等
+    // 約束物件的參考物件(也可以想成：約束對象相對於參考物件的位置)，可以是button、label、image view等等
     toItem: Any, 
     
-    // 約束對象參考物件的屬性，屬性包括如leading、trailing、top、centerX等等
+    // 參考物件的屬性，屬性包括如leading、trailing、top、centerX等等
     attribute: SLayoutConstraint.Attribute, 
     
     // multiplier與後者attribute相乘積，加上constant值，再指定給約束對象
@@ -54,7 +54,20 @@ NSLayoutConstraint(
     constant:   myImageView.frame.width + 10
 )
 
-// Example3：multiplier數值的套用效果，newImageView左邊的起始位置，會對齊相對於myImageView的左邊起始位置，置於一個view的寬度大小後的位置
+// Example3：設定約束物件本身的size
+// toItem與attribute設為nil及.notAnAttribute
+// 此例是將myButton的寬度設為200
+NSLayoutConstraint(
+    item:       myButton,
+    attribute:  .leading, 
+    relatedBy:  .equal,
+    toItem:     nil,, 
+    attribute:  .notAnAttribute, 
+    multiplier: 1.0, 
+    constant:   200
+)
+
+// Example4：multiplier數值的套用效果，newImageView左邊的起始位置，會對齊相對於myImageView的左邊起始位置，置於一個view的寬度大小後的位置
 // 效果可以參考下面附檔
 NSLayoutConstraint(
     item:       newImageView,
@@ -67,9 +80,9 @@ NSLayoutConstraint(
 )
 ```
 
-Example3 效果：
+Example4 效果：
 
-{% file src=".gitbook/assets/rpreplay\_final1565916472.mp4" %}
+{% file src="../../.gitbook/assets/rpreplay\_final1565916472.mp4" %}
 
 ## Ref.
 
