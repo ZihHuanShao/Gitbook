@@ -63,6 +63,7 @@
     * [網路下載資料1. Data](study/wang-lu-xia-zai-zi-liao/lu-xia-pian.md)
     * [網路下載資料2. URLSession](study/wang-lu-xia-zai-zi-liao/urlsession-lu-xia-liao.md)
   * [FB](study/fb/README.md)
+    * [ios-sim does not work](study/fb/ios-sim-does-not-work.md)
     * [Facebook SDK for Login](study/fb/facebook-sdk-for-login.md)
   * [UIActivityViewController](study/uiactivityviewcontroller/README.md)
     * [如何將文章分享至其他應用程式\(Social & UIActivityViewController\)](study/uiactivityviewcontroller/ru-he-jiang-wen-zhang-fen-xiang-zhi-qi-ta-ying-yong-cheng-shi-social-uiactivityviewcontroller.md)
