@@ -4,8 +4,8 @@
 
 ```swift
 let sizeInt64: Int64 = getSize(atPath: absoluteFilePath)
-let sizeInt32: Int32 = NSString(string: size64).intValue
-let sizeInt = Int(size32)
+let sizeInt32: Int32 = NSString(string: sizeInt64).intValue
+let sizeInt = Int(sizeInt32)
 ```
 
 
