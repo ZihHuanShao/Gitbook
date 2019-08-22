@@ -82,7 +82,7 @@ NSLayoutConstraint(
 
 Example4 效果：
 
-{% file src="../../.gitbook/assets/rpreplay\_final1565916472.mp4" %}
+{% file src="../.gitbook/assets/rpreplay\_final1565916472.mp4" %}
 
 ## Ref.
 
