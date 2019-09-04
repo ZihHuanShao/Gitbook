@@ -117,6 +117,7 @@
   * [Set與Array的相互轉換](exercise-problems/setarray-de-xiang-hu.md)
   * [字串反轉](exercise-problems/zi-chuan-fan.md)
   * [陣列的 joinWithSeparator用法](exercise-problems/zhen-lie-de-joinwithseparator-yong-fa.md)
+  * [字串String ⬌ 時間Date](exercise-problems/zi-chuan-string-shi-jian-date.md)
   * [陣列中的陣列排序](exercise-problems/lie-zhong-de-lie-pai-xu.md)
   * [Int64 ➜ Int](exercise-problems/int64-int.md)
   * [Data大小](exercise-problems/untitled.md)
