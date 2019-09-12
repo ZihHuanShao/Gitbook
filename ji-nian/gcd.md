@@ -76,5 +76,9 @@ GCD（Grand Central Dispatch）？
 
 {% embed url="https://medium.com/@mikru168/ios-gcd%E5%A4%9A%E5%9F%B7%E8%A1%8C%E7%B7%92%E7%9A%84%E8%AA%AA%E6%98%8E%E8%88%87%E6%87%89%E7%94%A8-c69a68d01da1" %}
 
+[https://www.appcoda.com.tw/grand-central-dispatch/](https://www.appcoda.com.tw/grand-central-dispatch/)
+
+
+
 
 
