@@ -1,0 +1,43 @@
+# .className \*
+
+```javascript
+...
+
+<style>
+<!-----------------------------------
+'*' 會讓<div>所有的descendant有作用；
+若沒有'*'，則只會對<div>有作用
+------------------------------------>
+.ancestors * { 
+  ...
+}
+</style>
+
+...
+
+<body>
+  <div class="ancestors">
+    <div style="width:500px;">div (great-grandparent)
+      <ul>ul (grandparent)  
+        <li>li (direct parent)
+          <span>span</span>
+        </li>
+      </ul>   
+    </div>
+  
+    <div style="width:500px;">div (grandparent)   
+      <p>p (direct parent)
+        <span>span</span>
+      </p> 
+    </div>
+  </div>
+</body>
+
+...
+
+```
+
+## Ref.
+
+{% embed url="https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery\_parent" %}
+
