@@ -1,12 +1,14 @@
 # .className \*
 
+星號`*`的作用
+
 ```javascript
 ...
 
 <style>
 <!-----------------------------------
-'*' 會讓<div>所有的descendant有作用；
-若沒有'*'，則只會對<div>有作用
+'*' 會讓<div class="ancestors">底下所有的descendant有作用；
+若沒有'*'，則只會對<div class="ancestors">有作用
 ------------------------------------>
 .ancestors * { 
   ...
