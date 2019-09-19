@@ -1,4 +1,4 @@
-# jQuery CSS 屬性
+# jQ CSS 屬性
 
 取得element的CSS屬性，或設定element的CSS屬性
 

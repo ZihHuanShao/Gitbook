@@ -1,4 +1,4 @@
-# jQuery element結構
+# jQ element結構
 
 * `width()`
 * `height()`

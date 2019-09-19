@@ -1,4 +1,4 @@
-# function method
+# JS function method
 
 ### **`arguments`**
 

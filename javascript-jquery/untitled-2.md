@@ -1,4 +1,4 @@
-# .className \*
+# JQ .className \*
 
 星號`*`的作用
 

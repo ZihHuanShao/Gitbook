@@ -1,4 +1,4 @@
-# 常用jQuery Selectors
+# jQ 常用Selectors
 
 <table>
   <thead>
