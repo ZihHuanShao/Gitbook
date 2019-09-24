@@ -3,6 +3,7 @@
 * `path`: 檔案路徑
 
 ```swift
+// 取得檔案大小(Bytes)
 func getSize(atPath path: String) -> UInt64? {
     do {
         // METHOD 1
@@ -20,6 +21,18 @@ func getSize(atPath path: String) -> UInt64? {
         print("getSize Error: \(error)")
         return nil
     }
+}
+
+// 取得檔案格式
+func covertToFileString(with size: UInt64) -> String {
+    var convertedValue: Double = Double(size)
+    var multiplyFactor = 0
+    let tokens = ["bytes", "KB", "MB", "GB", "TB", "PB",  "EB",  "ZB", "YB"]
+    while convertedValue > 1024 {
+        convertedValue /= 1024
+        multiplyFactor += 1
+    }
+    return String(format: "%4.2f %@", convertedValue, tokens[multiplyFactor])
 }
 ```
 
