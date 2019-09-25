@@ -34,6 +34,6 @@ testBtn.titleEdgeInsets = UIEdgeInsets(top: imageSize.height, left: -imageSize.w
 
 // 對image偏移
 // image往右移動title的1/2寬度（此時image會在title的正上方）
-testBtn.imageEdgeInsets = UIEdgeInsets(top: 0, left: titleSize.width / 2, bottom: 0 + interval, right: 0)
+testBtn.imageEdgeInsets = UIEdgeInsets(top: 0, left: titleSize.width / 2, bottom: 0, right: 0)
 ```
 
