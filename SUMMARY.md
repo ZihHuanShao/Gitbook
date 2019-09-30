@@ -32,6 +32,7 @@
     * [從CollectionViewCell裡的button取得Indexpath](study/collectionview/cong-collectionviewcell-li-de-button-qu-de-indexpath.md)
     * [如何顯示CollectionView的Header](study/collectionview/ru-he-shi-collectionview-de-header.md)
     * [點擊cell變色](study/collectionview/untitled.md)
+    * [點擊Cell動態更新圖片及文字](study/collectionview/dian-ji-collectionviewcell-dong-tai-geng-xin-tu-pian.md)
     * [UICollectionView的高度自動調整為UICollectionViewCell的高度](study/collectionview/uicollectionview-de-gao-du-zi-dong-diao-zheng-wei-uicollectionviewcell-de-gao-du.md)
     * [無法invoke UICollectionViewDelegateFlowLayout的sizeForItemAt](study/collectionview/wu-fa-invoke-uicollectionviewdelegateflowlayout-de-sizeforitemat.md)
   * [Audio相關](study/audio-xiang-guan/README.md)

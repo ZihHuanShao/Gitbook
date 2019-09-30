@@ -12,12 +12,12 @@ class SecondViewController: UIViewController {
     
     // Notification的名稱
     let notificationName = NSNotification.Name(rawValue: "UpdateRecord")
-    
+    var updateRecordNotificationName: NSObjectProtocol?
     override func viewDidLoad() {
         super.viewDidLoad()
         
         // 註冊，並實作calledUpdateRecord方法
-        NotificationCenter.default.addObserver(forName: notificationName, object: nil, queue: nil, using: calledUpdateRecord)
+        updateRecordNotificationName = NotificationCenter.default.addObserver(forName: notificationName, object: nil, queue: nil, using: calledUpdateRecord)
     }
 
     override func viewWillDisappear(_ animated: Bool) {
@@ -52,4 +52,10 @@ class FirstViewController: UIViewController {
     ...
 }
 ```
+
+## 確保不使用時移除
+
+{% embed url="https://stackoverflow.com/questions/33388940/nsnotificationcenter-removeobserver-not-working" %}
+
+
 
