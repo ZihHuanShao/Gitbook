@@ -149,7 +149,7 @@ class LandlordA: RentContract {
     }
 }
 
-class LandlordB: RentContractntract {
+class LandlordB: RentContract {
     func rental() {
         print("Pay 8000 per month with large suite")
     }
