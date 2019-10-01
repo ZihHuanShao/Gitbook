@@ -1,6 +1,6 @@
-# UIAlertController 警告控制器
+# UIAlertController 基本
 
-![](../.gitbook/assets/ying-mu-kuai-zhao-20190117-xia-wu-3.39.16.png)
+![](../../.gitbook/assets/ying-mu-kuai-zhao-20190117-xia-wu-3.39.16.png)
 
 ```swift
 ...
