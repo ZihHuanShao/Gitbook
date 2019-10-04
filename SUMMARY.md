@@ -159,4 +159,6 @@
 * [UIButton圖片在上、文字在下](uibutton-tu-pian-zai-shang-wen-zi-zai-xia.md)
 * [取得上下Safe area高度](qu-de-shang-xia-safe-area-gao-du.md)
 * [無法播放音效](wu-fa-bo-fang-yin-xiao.md)
+* [Disable PageViewController scroll](disable-pageviewcontroller-scroll.md)
+* [關閉App看起來不像crash](guan-bi-app-kan-qi-lai-bu-xiang-crash.md)
 
