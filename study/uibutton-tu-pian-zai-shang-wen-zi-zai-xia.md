@@ -13,9 +13,9 @@
 
 圖與程式碼可以相互對應
 
-1. ![](.gitbook/assets/ying-mu-kuai-zhao-20190925-shang-wu-12.06.39.png) 原始狀態
-2. ![](.gitbook/assets/ying-mu-kuai-zhao-20190925-shang-wu-12.06.16.png) 對`title`偏移之後
-3. ![](.gitbook/assets/ying-mu-kuai-zhao-20190925-shang-wu-12.05.37.png) 對`image`偏移之後
+1. ![](../.gitbook/assets/ying-mu-kuai-zhao-20190925-shang-wu-12.06.39.png) 原始狀態
+2. ![](../.gitbook/assets/ying-mu-kuai-zhao-20190925-shang-wu-12.06.16.png) 對`title`偏移之後
+3. ![](../.gitbook/assets/ying-mu-kuai-zhao-20190925-shang-wu-12.05.37.png) 對`image`偏移之後
 
 ```swift
 @IBOutlet weak var testBtn: UIButton!

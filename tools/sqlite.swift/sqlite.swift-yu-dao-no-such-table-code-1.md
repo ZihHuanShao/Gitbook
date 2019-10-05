@@ -6,11 +6,11 @@
 
 會造成讀不到檔，是因為將`db`拖曳至XCode的行為和拖曳其他檔\(`mp3`\)的行為有落差，這會導致讀到`nil`，參考以下範例，改掉就可以了
 
-![&#x62D6;&#x66F3;mp3&#x81F3;Xode](../.gitbook/assets/ying-mu-kuai-zhao-20190924-shang-wu-11.01.52.png)
+![&#x62D6;&#x66F3;mp3&#x81F3;Xode](../../.gitbook/assets/ying-mu-kuai-zhao-20190924-shang-wu-11.01.52.png)
 
-![](../.gitbook/assets/ying-mu-kuai-zhao-20190924-shang-wu-10.56.04%20%282%29.png)
+![](../../.gitbook/assets/ying-mu-kuai-zhao-20190924-shang-wu-10.56.04%20%282%29.png)
 
-![&#x62D6;&#x66F3;db&#x81F3;Xode](../.gitbook/assets/ying-mu-kuai-zhao-20190924-shang-wu-11.02.08.png)
+![&#x62D6;&#x66F3;db&#x81F3;Xode](../../.gitbook/assets/ying-mu-kuai-zhao-20190924-shang-wu-11.02.08.png)
 
-![](../.gitbook/assets/ying-mu-kuai-zhao-20190924-shang-wu-10.56.54.png)
+![](../../.gitbook/assets/ying-mu-kuai-zhao-20190924-shang-wu-10.56.54.png)
 
