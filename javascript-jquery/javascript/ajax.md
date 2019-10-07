@@ -45,7 +45,7 @@ if (window.XMLHttpRequest) {
 | **`readyState`** | `XMLHttpRequest`請求的狀態： 0: 請求未初始化 1: server connection建立 2: 接收請求 3: 處理請求 4: 請求完成並且響應準備就緒  |
 | **`responseText`** | 回傳數據以string格式 |
 | **`responseXML`** | 回傳數據以XML格式 |
-| **`status`** | 回傳請求的狀態status： 200: "OK" 403: "Forbidden" 404: "Not Found" 完整列表清參考 [Http Messages Reference](https://www.w3schools.com/tags/ref_httpmessages.asp) |
+| **`status`** | 回傳請求的狀態status： `200: "OK" 403: "Forbidden" 404: "Not Found"` 完整列表清參考 [Http Messages Reference](https://www.w3schools.com/tags/ref_httpmessages.asp) |
 | **`statusText`** | 回傳狀態的text格式 \(如"OK" or "Not Found"\) |
 
 
