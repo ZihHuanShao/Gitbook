@@ -6,9 +6,9 @@
 <script>
   $(document).ready(function(){
     $("#show").click(function(){
-      $("p").show();
-      //或
       $("#aaa").text("hello world!");
+      // 或
+      $("#aaa").html("hello world!");
     });
   });
 </script>
@@ -33,6 +33,9 @@
   <script>
     function myFunction() {
       document.getElementById("demo").innerHTML = "Paragraph changed!";
+      // 或
+      document.getElementById("demo").innerText = "Paragraph changed!";
+
     }
   </script>
   
