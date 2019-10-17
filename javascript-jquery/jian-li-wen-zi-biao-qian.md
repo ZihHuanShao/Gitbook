@@ -1,4 +1,4 @@
-# 建立文字標籤
+# 建立text的方式
 
 下面使用三種方式都可以建立字串"`Hello.`"：
 
@@ -16,4 +16,8 @@ txt3.innerHTML = "Hello.";
 
 $("body").append(txt1, txt2, txt3);
 ```
+
+{% embed url="https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery\_html\_append2" %}
+
+
 

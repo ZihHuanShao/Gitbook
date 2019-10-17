@@ -163,7 +163,7 @@
     * [jQuery CSS Classes](javascript-jquery/jquery/addclass.md)
     * [jQ element結構](javascript-jquery/jquery/element-jie-gou.md)
     * [jQ CSS 屬性](javascript-jquery/jquery/untitled.md)
-  * [建立文字標籤](javascript-jquery/jian-li-wen-zi-biao-qian.md)
+  * [建立text的方式](javascript-jquery/jian-li-wen-zi-biao-qian.md)
   * [.className \*](javascript-jquery/untitled-2.md)
 * [關閉tableview cell highlight color](guan-bi-tableview-cell-highlight-color.md)
 
