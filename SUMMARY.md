@@ -157,6 +157,7 @@
     * [JS function method](javascript-jquery/javascript/a.md)
     * [JS AJAX](javascript-jquery/javascript/ajax.md)
   * [JQuery](javascript-jquery/jquery/README.md)
+    * [改欄位文字](javascript-jquery/jquery/gai-lan-wei-wen-zi.md)
     * [jQ 常用Selectors](javascript-jquery/jquery/untitled-1.md)
     * [jQuery CSS Classes](javascript-jquery/jquery/addclass.md)
     * [jQ element結構](javascript-jquery/jquery/element-jie-gou.md)
