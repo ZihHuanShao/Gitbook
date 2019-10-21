@@ -108,6 +108,7 @@
   * [Property \(屬性\)](ji-nian/property-xing/README.md)
     * [lazy的儲存屬性](ji-nian/property-xing/lazy-de-cun-xing.md)
 * [遇到的環境問題](yu-dao-de/README.md)
+  * [github顯示程式語言問題](yu-dao-de/github-xian-shi-cheng-shi-yu-yan-wen-ti.md)
   * [auto sign無法順利打包](yu-dao-de/auto-sign-wu-fa-shun-li-da-bao.md)
   * [廣告識別碼\(IDFA\)提交錯誤](yu-dao-de/gao-idfa-ti-jiao.md)
   * [Closure retain cycle \(Closure中的\[weak self\]\)](yu-dao-de/closure-retain-cycle-closure-zhong-de-weak-self.md)
