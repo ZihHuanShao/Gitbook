@@ -155,6 +155,7 @@
   * [ObjC: enumerateObjectsUsingBlock](qi-ta/objc.md)
   * [SQLite](qi-ta/sqlite.md)
 * [JavaScript/ jQuery](javascript-jquery/README.md)
+  * [Add Active Class to Current Element](javascript-jquery/untitled.md)
   * [JavaScript](javascript-jquery/javascript/README.md)
     * [JS function method](javascript-jquery/javascript/a.md)
     * [JS AJAX](javascript-jquery/javascript/ajax.md)
@@ -170,4 +171,5 @@
   * [建立text的方式](javascript-jquery/jian-li-wen-zi-biao-qian.md)
   * [.className \*](javascript-jquery/untitled-2.md)
 * [關閉tableview cell highlight color](guan-bi-tableview-cell-highlight-color.md)
+* [CSS selectors](css-selectors.md)
 
