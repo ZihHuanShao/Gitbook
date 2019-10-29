@@ -160,6 +160,7 @@
     * [JS function method](javascript-jquery/javascript/a.md)
     * [JS AJAX](javascript-jquery/javascript/ajax.md)
   * [JQuery](javascript-jquery/jquery/README.md)
+    * [on: Attach multiple event handlers](javascript-jquery/jquery/on-attach-multiple-event-handlers.md)
     * [for-loop 建立高重複性的物件](javascript-jquery/jquery/forloop-jian-li-gao-zhong-fu-xing-de-wu-jian.md)
     * [動態物件click方法](javascript-jquery/jquery/dong-tai-wu-jian-click-fang-fa.md)
     * [add image inside of div tag](javascript-jquery/jquery/add-image-inside-of-div-tag.md)
