@@ -1,4 +1,4 @@
-# jQuery CSS Classes
+# jQ 增加CSS Classes
 
 ```javascript
 // 針對多個element增加class
