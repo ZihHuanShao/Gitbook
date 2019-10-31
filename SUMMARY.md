@@ -170,6 +170,7 @@
     * [jQ element結構](javascript-jquery/jquery/element-jie-gou.md)
     * [jQ CSS 屬性](javascript-jquery/jquery/untitled.md)
   * [建立text的方式](javascript-jquery/jian-li-wen-zi-biao-qian.md)
+  * [如何disable &lt;input&gt;元件？](javascript-jquery/ru-he-disable-input-yuan-jian.md)
   * [.類別名稱 \*](javascript-jquery/untitled-2.md)
   * [Object](javascript-jquery/object.md)
 * [關閉tableview cell highlight color](guan-bi-tableview-cell-highlight-color.md)
