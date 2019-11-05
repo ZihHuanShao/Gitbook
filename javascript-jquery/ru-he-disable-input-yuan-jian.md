@@ -9,7 +9,7 @@ $("input").prop('disabled', false);
 
 ## Ref.
 
-## [Disable/enable an input with jQuery?](https://stackoverflow.com/questions/1414365/disable-enable-an-input-with-jquery)
+[Disable/enable an input with jQuery?](https://stackoverflow.com/questions/1414365/disable-enable-an-input-with-jquery)
 
 ## 範例
 
