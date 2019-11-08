@@ -16,8 +16,8 @@
 
    ![](../../.gitbook/assets/ying-mu-kuai-zhao-20181203-xia-wu-6.16.11.png)
 
-{% code-tabs %}
-{% code-tabs-item title="ViewController.swift" %}
+{% tabs %}
+{% tab title="ViewController.swift" %}
 ```swift
 import UIKit
 import AVFoundation
@@ -125,8 +125,8 @@ class ViewController: UIViewController, AVAudioRecorderDelegate {
     }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 ## 模組化注意事項
 

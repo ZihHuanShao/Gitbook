@@ -59,8 +59,8 @@
   </tbody>
 </table>範例顯示出101大樓的位置：
 
-{% code-tabs %}
-{% code-tabs-item title="ViewController.swift" %}
+{% tabs %}
+{% tab title="ViewController.swift" %}
 ```swift
 import UIKit
 import MapKit
@@ -103,6 +103,6 @@ class ViewController: UIViewController {
     }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 

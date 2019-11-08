@@ -13,8 +13,8 @@
 `AVAudioPlayer()`使用`throws`的方法， 操作時記得加入`do`、`try`、`catch`![](../../.gitbook/assets/wei-ming-ming%20%282%29.png) 
 {% endhint %}
 
-{% code-tabs %}
-{% code-tabs-item title="ViewController.swift" %}
+{% tabs %}
+{% tab title="ViewController.swift" %}
 ```swift
 import UIKit
 import AVFoundation //使用Audio功能必須匯入AVFoundation
@@ -47,8 +47,8 @@ class ViewController: UIViewController {
     }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 列出常用的`AVAudioPlayer()`的幾個功能：
 

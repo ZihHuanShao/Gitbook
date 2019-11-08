@@ -180,4 +180,5 @@
   * [callback & IIFE](javascript-jquery/callback-and-iife.md)
 * [關閉tableview cell highlight color](guan-bi-tableview-cell-highlight-color.md)
 * [CSS selectors](css-selectors.md)
+* [Timer](timer.md)
 

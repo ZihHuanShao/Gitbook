@@ -4,8 +4,8 @@
 
 在實作`UITableViewDelegate`的`didSelectRowAt`方法時，目的是在`Main.storyboard`裡的`ViewController`底下的`TableView`選到哪一個`cell，`就會跳到另一個`InfoView.storyboard`上的`InfoViewController.swift`並顯示我要的資訊。
 
-{% code-tabs %}
-{% code-tabs-item title="InfoViewController.swift" %}
+{% tabs %}
+{% tab title="InfoViewController.swift" %}
 ```swift
 class InfoViewController: UIViewController {
 
@@ -16,11 +16,11 @@ class InfoViewController: UIViewController {
     }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
-{% code-tabs %}
-{% code-tabs-item title="ViewController.swift" %}
+{% tabs %}
+{% tab title="ViewController.swift" %}
 ```swift
 
 class ViewController: UIViewController {
@@ -44,8 +44,8 @@ extension ViewController: UITableViewDelegate {
     }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 ## 現在使用情形
 
@@ -57,8 +57,8 @@ extension ViewController: UITableViewDelegate {
 
 在`InfoViewController.swift`多加一個全域變數就可以了。原來只要多繞一小圈就可以了，當初還卡一小段時間，下面附上參考連結
 
-{% code-tabs %}
-{% code-tabs-item title="InfoViewController.swift" %}
+{% tabs %}
+{% tab title="InfoViewController.swift" %}
 ```swift
 class InfoViewController: UIViewController {
 
@@ -74,11 +74,11 @@ class InfoViewController: UIViewController {
     }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
-{% code-tabs %}
-{% code-tabs-item title="ViewController.swift" %}
+{% tabs %}
+{% tab title="ViewController.swift" %}
 ```swift
 ...
 
@@ -95,8 +95,8 @@ extension ViewController: UITableViewDelegate {
     }
 }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 {% embed url="https://stackoverflow.com/questions/28741399/iboutlet-of-another-view-controller-is-nil" %}
 
