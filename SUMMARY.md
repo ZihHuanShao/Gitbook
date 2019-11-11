@@ -181,5 +181,6 @@
 * [關閉tableview cell highlight color](guan-bi-tableview-cell-highlight-color.md)
 * [CSS selectors](css-selectors.md)
 * [Timer](timer.md)
-* [Notification與PushKit](untitled.md)
+* [Push Notification與PushKit](untitled.md)
+* [如何進入背景模式 EX: Finite-Length Tasks](ru-he-jin-ru-bei-jing-mo-shi-ex-finitelength-tasks.md)
 

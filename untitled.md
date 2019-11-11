@@ -1,4 +1,4 @@
-# Notification與PushKit
+# Push Notification與PushKit
 
 ## 本地通知
 
@@ -134,11 +134,21 @@ extension AppDelegate: PKPushRegistryDelegate {
 
 ### Ref.
 
+{% embed url="https://www.jianshu.com/p/f9bef7e7a4ab" %}
+
 {% embed url="https://juejin.im/post/5d1c728ef265da1bc8544550" %}
 
 {% embed url="https://www.jianshu.com/p/afc8de658931" %}
 
 {% embed url="https://developer.apple.com/documentation/pushkit/supporting\_pushkit\_notifications\_in\_your\_app" caption="官方註冊程式碼" %}
+
+## 憑證相關
+
+### Ref.
+
+{% embed url="https://medium.com/folllow-em/apns%E6%8E%A8%E6%92%AD%E6%86%91%E8%AD%89%E9%9B%9C%E8%A8%98-d20d9279b9ce" %}
+
+
 
 
 
