@@ -1,6 +1,6 @@
 # Push Notification與PushKit
 
-## 本地通知
+## 本地通知 Push Notification \(Local\)
 
 ### 範例1
 
@@ -12,7 +12,7 @@
 
 
 
-## 遠端通知
+## 遠端通知 Push Notification \(Remote\)
 
 ### 範例
 
@@ -28,9 +28,9 @@
 
 經實測，接著線的時候，傳送`payload`給APN時，device能夠即時地收到回應，也正是我們期待的行為。
 
-但若不接線時，傳送`payload`給APN，雖然的確能夠收到回應，但device不一定是即時地接收到，也有可能在幾小時後才收到，且也不保證每一則都能確實收到。
+但若不接線時，傳送`payload`給APN，雖然的確能夠收到回應，但device不一定是即時地接收到回應，也有可能在幾小時後才收到，且也不保證每一則都能確實收到。會有如此問題是因為蘋果似乎不允許在短時間大量傳送訊息。
 
-因為無法保證即時性的要求，再試另一種通知的方法：**PushKit**
+因為無法保證即時性與完整性的要求，因此再試另一種通知的方法：**PushKit**
 
 ## **PushKit**
 
@@ -59,7 +59,7 @@ func pushRegistry(_ registry: PKPushRegistry, didReceiveIncomingPushWith payload
 ```swift
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+    var window: UIWindow?
     var voipRegistry: PKPushRegistry!
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
