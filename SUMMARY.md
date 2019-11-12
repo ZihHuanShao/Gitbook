@@ -136,7 +136,7 @@
   * [Int64 ➜ Int](exercise-problems/int64-int.md)
   * [取得現在時間\(TW\) GMT +8](exercise-problems/qu-de-xian-zai-shi-jian-tw-gmt-+8.md)
   * [Data大小](exercise-problems/untitled.md)
-* [第三方](di-san-fang/README.md)
+* [Third-party Library](di-san-fang/README.md)
   * [SQLite.swift](di-san-fang/sqlite.swift/README.md)
     * [遇到No such table code : 1](di-san-fang/sqlite.swift/sqlite.swift-yu-dao-no-such-table-code-1.md)
     * [Binding ➜ Int](di-san-fang/sqlite.swift/binding-to-int.md)
