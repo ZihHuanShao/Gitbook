@@ -102,6 +102,7 @@
   * [UIView](ji-nian/uiview.md)
   * [Protocol](ji-nian/protocol.md)
   * [閉包Closure](ji-nian/bao-closure.md)
+  * [逃逸閉包 @escaping closure](ji-nian/tao-yi-bi-bao-escaping-closure.md)
   * [GCD](ji-nian/gcd.md)
   * [App Life Cycle 應用程式生命週期](ji-nian/app-life-cycle-yong-cheng-shi-sheng-ming-qi.md)
   * [singleton: 單例模式](ji-nian/singleton-chan-li-mo-shi.md)
