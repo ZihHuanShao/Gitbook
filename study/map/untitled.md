@@ -97,9 +97,9 @@ class ViewController: UIViewController {
         // 加入大頭針
         let annotation = MKPointAnnotation()
         annotation.coordinate = location
-        annotation.title = "艾非爾鐵塔"
-        annotation.subtitle = "我曾經去過那裡"
-        map.addAnnotation(annotatio)
+        annotation.title = "Taipei 101"
+        annotation.subtitle = "I have been to there"
+        map.addAnnotation(annotation)
     }
 }
 ```
