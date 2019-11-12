@@ -1,4 +1,4 @@
-# Timer
+# Timer循環計時
 
 ## Ref.
 
