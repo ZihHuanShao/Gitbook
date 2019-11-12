@@ -130,6 +130,7 @@
     * [\#219. Contains Duplicate II](exercise-problems/leetcode/leetcode-219.-contains-duplicate-ii.md)
     * [\#344. Reverse String](exercise-problems/leetcode/leetcode-344.-reverse-string.md)
     * [\#345. Reverse Vowels of a String](exercise-problems/leetcode/leetcode-345.-reverse-vowels-of-a-string.md)
+  * [繼承之init](exercise-problems/ji-cheng-zhi-init.md)
   * [Int 轉 String](exercise-problems/int-zhuan-string.md)
   * [forEach用法](exercise-problems/foreach-yong-fa.md)
   * [Set與Array的相互轉換](exercise-problems/setarray-de-xiang-hu.md)
