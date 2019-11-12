@@ -141,6 +141,7 @@
     * [遇到No such table code : 1](di-san-fang/sqlite.swift/sqlite.swift-yu-dao-no-such-table-code-1.md)
     * [Binding ➜ Int](di-san-fang/sqlite.swift/binding-to-int.md)
 * [Tools](tools/README.md)
+  * [測試推播工具\(push tool\)](tools/ce-shi-tui-bo-gong-ju-push-tool.md)
   * [icon製作](tools/icon-zuo.md)
   * [\(fastlane\) 從App Store Connect下載metadata](tools/fastlane-app-store-connect-xia-metadata.md)
   * [Sublime Text 解析JSON](tools/sublime-text-jie-xi-json.md)
