@@ -26,7 +26,7 @@
   * [UIButton圖片在上、文字在下](study/uibutton-tu-pian-zai-shang-wen-zi-zai-xia.md)
   * [調整UILabel文字的行\(上下\)間距](study/zheng-uilabel-wen-zi-de-hang-shang-xia-ju.md)
   * [UIView: 各種縮放模式\(ScaleToFill、ScaleAspectFit、ScaleAspectFill\)](study/uiview-scaletofill-scaleaspectfit-scaleaspectfill.md)
-  * [Disable PageViewController scroll](study/disable-pageviewcontroller-scroll.md)
+  * [停用PageViewController的翻頁](study/disable-pageviewcontroller-scroll.md)
   * [取得打電話的狀態](study/qu-de-da-de.md)
   * [實作checkbox](study/zuo-checkbox.md)
   * [initial view controller的選擇](study/initial-view-controller-de.md)

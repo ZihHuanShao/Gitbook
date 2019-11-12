@@ -1,4 +1,6 @@
-# Disable PageViewController scroll
+# 停用PageViewController的翻頁
+
+`PageViewController`有兩種翻頁方式：**Curl**與**Scroll**
 
 ```swift
 // Disable Page Curl
