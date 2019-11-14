@@ -7,3 +7,13 @@
 3. 找到名稱相對應的檔案，可以從Bundle ID去找，找到之後按**滑鼠右鍵**➜ 選擇**輸出「．．．」**
 4. 輸出p12檔
 
+## Ref.
+
+{% embed url="https://medium.com/@tobyhsu/為什麼需要-p12-or-pem-檔-9a8809597e15" caption="關於p12檔" %}
+
+
+
+
+
+
+
