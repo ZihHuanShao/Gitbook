@@ -13,8 +13,7 @@ $("input").prop('disabled', false);
 
 ## 範例
 
-{% tabs %}
-{% tab title="HTML" %}
+{% code title="HTML" %}
 ```markup
 
 ...
@@ -34,8 +33,7 @@ $("input").prop('disabled', false);
         </div>
 ...
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 建立監聽事件：當選擇其中一個`radio`選項，就會觸發做事情。如：當選擇「**查詢所有紀錄**」，就會將日期的畫面`disabled`；反之，若選擇「**指定日期**」，就不會將日期的畫面`disabled`，讓user可以選擇日期。
 

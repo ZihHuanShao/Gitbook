@@ -13,8 +13,7 @@
 
 為了能夠更了解畫面跟程式執行的先後關係，首先先建立一個Project並在以下幾支檔加入`print()`訊息來追蹤：
 
-{% tabs %}
-{% tab title="ViewController.swift" %}
+{% code title="ViewController.swift" %}
 ```swift
 import UIKit
 
@@ -53,11 +52,9 @@ class ViewController: UIViewController {
 }
 
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
-{% tabs %}
-{% tab title="AppDelegate.swift" %}
+{% code title="AppDelegate.swift" %}
 ```swift
 import UIKit
 
@@ -90,8 +87,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 }
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 <table>
   <thead>

@@ -21,8 +21,7 @@
 
 ## 範例
 
-{% tabs %}
-{% tab title="ViewController.swift" %}
+{% code title="ViewController.swift" %}
 ```swift
     @IBOutlet weak var map: MKMapView!
     var loacationManager: CLLocationManager?
@@ -41,6 +40,5 @@
 
     }
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 

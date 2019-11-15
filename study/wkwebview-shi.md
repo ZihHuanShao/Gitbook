@@ -8,8 +8,7 @@
 
 ## 範例
 
-{% tabs %}
-{% tab title="ViewController.swift" %}
+{% code title="ViewController.swift" %}
 ```swift
 
 class ViewController: UIViewController{
@@ -26,6 +25,5 @@ class ViewController: UIViewController{
 }
 
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 

@@ -7,8 +7,7 @@
 
 使用一組`key`來判斷是否有登入過, 並在`AppDelegate.swift`裡的`didFinishLaunchingWithOptions`加入判斷式
 
-{% tabs %}
-{% tab title="AppDelegate.swift" %}
+{% code title="AppDelegate.swift" %}
 ```swift
 ...
     
@@ -29,6 +28,5 @@
 
 ...
 ```
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
