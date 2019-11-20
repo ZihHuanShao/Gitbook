@@ -98,6 +98,7 @@
 * [SWIFT News](swift-news/README.md)
   * [iOS 11 SDK新功能](swift-news/ios-11-sdk-xin-gong-neng.md)
 * [基礎觀念](ji-nian/README.md)
+  * [協定Equatable](ji-nian/xie-ding-equatable.md)
   * [UIImageView & UIImage](ji-nian/uiimageview-and-uiimage.md)
   * [UIView](ji-nian/uiview.md)
   * [Protocol](ji-nian/protocol.md)
