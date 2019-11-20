@@ -96,6 +96,7 @@
     * [share extension implement](study/share-extension-1/untitled-1.md)
     * [沒有權限Share extension: couldn’t be opened because you don’t have permission to view it.](study/share-extension-1/untitled.md)
 * [基礎觀念](ji-nian/README.md)
+  * [泛型 Generics](ji-nian/fan-xing-generics.md)
   * [swift5.1 省略return](ji-nian/swift5.1-sheng-lve-return.md)
   * [協定Equatable & Hashable](ji-nian/xie-ding-equatable.md)
   * [UIImageView & UIImage](ji-nian/uiimageview-and-uiimage.md)
