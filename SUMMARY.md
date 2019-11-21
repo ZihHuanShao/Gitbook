@@ -114,6 +114,7 @@
   * [Property \(屬性\)](ji-nian/property-xing/README.md)
     * [lazy的儲存屬性](ji-nian/property-xing/lazy-de-cun-xing.md)
 * [SWIFT News](swift-news/README.md)
+  * [enum 變成array使用](swift-news/enum-bian-cheng-array-shi-yong.md)
   * [swiftUI](swift-news/swiftui.md)
   * [iOS 11 SDK新功能](swift-news/ios-11-sdk-xin-gong-neng.md)
 * [環境問題](yu-dao-de/README.md)
