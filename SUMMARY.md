@@ -160,6 +160,7 @@
   * [\(fastlane\) 從App Store Connect下載metadata](tools/fastlane-app-store-connect-xia-metadata.md)
   * [Sublime Text 解析JSON](tools/sublime-text-jie-xi-json.md)
 * [其他（未分類）](qi-ta/README.md)
+  * [REST API](qi-ta/rest-api.md)
   * [mac: FB發文如何「空格」及「換行」](qi-ta/mac-fb-wen-ru-he-kong-ge-ji-hang.md)
   * [static的意義  \(C/ C++\)](qi-ta/static-de-yi-cc++.md)
   * [ObjC: enumerateObjectsUsingBlock](qi-ta/objc.md)
