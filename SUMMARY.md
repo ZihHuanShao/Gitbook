@@ -82,7 +82,7 @@
   * [網路下載資料](study/wang-lu-xia-zai-zi-liao/README.md)
     * [解析JSON資料](study/wang-lu-xia-zai-zi-liao/untitled-2.md)
     * [網路下載資料1. Data](study/wang-lu-xia-zai-zi-liao/lu-xia-pian.md)
-    * [網路下載資料2. URLSession](study/wang-lu-xia-zai-zi-liao/urlsession-lu-xia-liao.md)
+    * [網路下載資料2. URLSession \(dataTask & downloadTask\)](study/wang-lu-xia-zai-zi-liao/urlsession-lu-xia-liao.md)
   * [FB](study/fb/README.md)
     * [ios-sim does not work](study/fb/ios-sim-does-not-work.md)
     * [Facebook SDK for Login](study/fb/facebook-sdk-for-login.md)

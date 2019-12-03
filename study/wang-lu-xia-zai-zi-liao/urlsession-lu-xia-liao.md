@@ -1,4 +1,4 @@
-# 網路下載資料2. URLSession
+# 網路下載資料2. URLSession \(dataTask & downloadTask\)
 
 {% hint style="info" %}
 `URLSession`下載工作預設都在**共時\(**global\)**佇列**下載
