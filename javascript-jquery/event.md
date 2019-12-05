@@ -12,6 +12,10 @@
 
 {% embed url="http://skaih.logdown.com/posts/712464-jquery-click-on-the-where-different" caption="JQ click & onclick" %}
 
+{% embed url="https://blog.wu-boy.com/2012/04/use-on-api-to-attach-event-handlers-on-jquery/" %}
+
+
+
 ### `Event Handler`的隱藏參數`event`代表的意義
 
 包含`this`與`event.currentTarget`的差別
