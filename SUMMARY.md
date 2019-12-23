@@ -179,6 +179,7 @@
     * [JS AJAX](javascript-jquery/javascript/ajax.md)
     * [JS document.getElementsBy\*\* 與 document.querySelector\*\*\* 的差異](javascript-jquery/javascript/document.getelementsby-yu-document.queryselector-de-cha-yi.md)
   * [JQuery](javascript-jquery/jquery/README.md)
+    * [JQ input radio之check, trigger](javascript-jquery/jquery/jq-input-radio-zhi-check-trigger.md)
     * [JQ 取得input輸入框的值？](javascript-jquery/jquery/jq-qu-de-input-shu-ru-kuang-de-zhi.md)
     * [on: Attach multiple event handlers](javascript-jquery/jquery/on-attach-multiple-event-handlers.md)
     * [for-loop 建立高重複性的物件](javascript-jquery/jquery/forloop-jian-li-gao-zhong-fu-xing-de-wu-jian.md)
