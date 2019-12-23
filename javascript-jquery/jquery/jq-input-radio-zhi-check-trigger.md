@@ -28,6 +28,11 @@
 }
 ```
 
+現在被選擇的item是哪一個：  
+`$("[name=fieldChatgroupType]:checked").val()`
+
+
+
 先選擇到指定的item，再trigger
 
 ```javascript
