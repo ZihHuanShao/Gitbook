@@ -8,7 +8,11 @@
 // 假設我現在有個input radio的item，並有各自的事件函式要執行
 'click input[type=radio][name=groupType]': function(event) {
 	var thisView = this;
-
+  
+  // var $node = $(event.currentTarget);
+  // console.log("group type: ", $node.val());
+  // $node.val() 等於 $("input[type=radio][name=groupType]:checked"
+	
 	switch ($("input[type=radio][name=groupType]:checked").val()) {
 		case "1": // 一般群組
 			  thisView.listChatgroup(1, -1, -1, CGTYPE_NORMAL);
