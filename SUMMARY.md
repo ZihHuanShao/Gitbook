@@ -129,6 +129,7 @@
   * [安裝cocoapods遇到You don't have write permissions for the /usr/bin directory.](yu-dao-de/an-cocoapods-yu-dao-you-dont-have-write-permissions-for-the-usrbin-directory..md)
   * [cocoapods反安裝](yu-dao-de/cocoapods-fan-an.md)
 * [SWIFT EXERCISE](exercise-problems/README.md)
+  * [截取字串關鍵字](exercise-problems/jie-qu-zi-chuan-guan-jian-zi.md)
   * [LeetCode](exercise-problems/leetcode/README.md)
     * [\#1. Two Sum](exercise-problems/leetcode/two-sum.md)
     * [\#20. Valid Parentheses](exercise-problems/leetcode/valid-braces-he-fa-de-kuo.md)
