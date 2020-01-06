@@ -154,7 +154,7 @@
   * [Data大小](exercise-problems/untitled.md)
 * [ObjC 語法](objc-yu-fa/README.md)
   * [@property與@synthesize](objc-yu-fa/property-yu-synthesize.md)
-  * [ObjC: enumerateObjectsUsingBlock](objc-yu-fa/objc.md)
+  * [ObjC: enumerateObjectsUsingBlock](qi-ta/objc.md)
 * [Third-party Library](di-san-fang/README.md)
   * [SQLite.swift](di-san-fang/sqlite.swift/README.md)
     * [遇到No such table code : 1](di-san-fang/sqlite.swift/sqlite.swift-yu-dao-no-such-table-code-1.md)
