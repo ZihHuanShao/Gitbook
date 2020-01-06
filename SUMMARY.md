@@ -59,6 +59,7 @@
     * [如何讓使用者刪除\(向左滑\)TableView的Cell](study/uitableview/ru-he-shi-yong-zhe-chu-xiang-zuo-hua-tableview-de-cell.md)
     * [TableView 顯示資料順序相反](study/uitableview/tableview-shi-liao-xu-xiang-fan.md)
   * [轉場/推頁 相關](study/zhuan-chang-tui-ye-xiang-guan/README.md)
+    * [連續dismiss](study/zhuan-chang-tui-ye-xiang-guan/lian-xu-dismiss.md)
     * [View 轉場效果](study/zhuan-chang-tui-ye-xiang-guan/view-xiao-guo.md)
     * [segue傳值](study/zhuan-chang-tui-ye-xiang-guan/segue-zhi.md)
     * [Unexpectedly found nil while unwrapping an Optional value 關於storyboard推頁](study/zhuan-chang-tui-ye-xiang-guan/unexpectedly-found-nil-while-unwrapping-an-optional-value-guan-wu-storyboard-tui-ye.md)
