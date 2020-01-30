@@ -11,7 +11,7 @@ $("#aaa").click(function(){
 	$(this).parent().remove()
 })
 
-// METHOD 2: Workabe
+// METHOD 2: Workable
 $(document.body).on('click', '#aaa', function(event) {
 	$(this).parent().remove()
 });	
@@ -26,6 +26,8 @@ $(document.body).on('click', '#aaa', function(event) {
 ## Ref.
 
 {% embed url="https://www.w3schools.com/jquery/event\_on.asp" %}
+
+{% embed url="http://ccckaass.pixnet.net/blog/post/146092931-%5Bjquery%5D-%E5%8B%95%E6%85%8B%E7%94%A2%E7%94%9F%E7%89%A9%E4%BB%B6%28append%29%E7%9A%84-event-%E6%8E%A7%E5%88%B6%28click%29" %}
 
 
 
