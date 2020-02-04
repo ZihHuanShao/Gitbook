@@ -34,7 +34,11 @@
 
 ## **PushKit**
 
-基本上PushKit的環境配置與程式碼註冊的流程，幾乎與前一個**遠端通知**的方法相同，只是憑證只有一種，並沒有分成開發憑證與生產憑證兩種，建立憑證方法可google找尋相關方法。
+基本上PushKit的環境配置與程式碼註冊的流程，與前一個**遠端通知**的方法幾乎相同，差別只在於建立憑證的方式，PushKit只要選擇VoIP就可以，並不用再分為開發憑證與生產憑證兩種。
+
+![](../.gitbook/assets/ying-mu-kuai-zhao-20200204-xia-wu-5.46.55.png)
+
+
 
 收到通知要做什麼事，在**遠端通知**是由以下函式處理：
 
@@ -57,6 +61,10 @@ func pushRegistry(_ registry: PKPushRegistry, didReceiveIncomingPushWith payload
 {% tabs %}
 {% tab title="AppDelegate.swift" %}
 ```swift
+import UIKit
+import UserNotifications
+import PushKit
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
