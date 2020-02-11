@@ -2,6 +2,7 @@
 
 * [Intro.](README.md)
 * [SWIFT 實作相關](study/README.md)
+  * [計時器觸發](study/ji-shi-qi-chu-fa.md)
   * [Opposite of bringSubviewToFront?](study/opposite-of-bringsubviewtofront.md)
   * [bringSubview\(toFront:\) 沒有作用](study/bringsubviewtofront-mei-you-zuo-yong.md)
   * [Timer循環計時](study/timer.md)
