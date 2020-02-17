@@ -31,6 +31,7 @@
   * [UIView: 各種縮放模式\(ScaleToFill、ScaleAspectFit、ScaleAspectFill\)](study/uiview-scaletofill-scaleaspectfit-scaleaspectfill.md)
   * [停用PageViewController的翻頁](study/disable-pageviewcontroller-scroll.md)
   * [取得打電話的狀態](study/qu-de-da-de.md)
+  * [CXProviderDelegate function call 順序](study/cxproviderdelegate-function-call-shun-xu.md)
   * [實作checkbox](study/zuo-checkbox.md)
   * [initial view controller的選擇](study/initial-view-controller-de.md)
   * [NSLayoutConstraint參數說明](study/untitled.md)
