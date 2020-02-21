@@ -9,6 +9,8 @@
 5. 編譯 `$ protoc --swift_out=. hw.proto` 編譯成功後會產生相對應的`.swift`檔 \(檔名為`hw.pb.swift`\)
 6. 接下來可以在XCode直接存取該檔
 
+若有使用其他第三方工具還需要額外的步驟，如cocoapods，請參考下方連結
+
 ## Ref.
 
 {% embed url="https://github.com/apple/swift-protobuf" %}
