@@ -3,7 +3,7 @@
 * **Designated Initializer**
   * Class的`init(a: Int)`，也就是我們一般所稱的建構式
 * **Convenience initializer**
-  * 同一個Class裡使用其他的**Designated Initializer**時：比如我們建立一個`convenience init()`，然後裡面會再呼叫原本的`init(a: Int)`
+  * 同一個Class裡使用其他的**Designated Initializer**的建構式，但必須加上`convenience`關鍵字：比如我們建立一個`convenience init()`，然後裡面會再呼叫原本的`init(a: Int)`
 
 ```swift
 class ColorTable {
