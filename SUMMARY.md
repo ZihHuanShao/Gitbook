@@ -104,6 +104,7 @@
   * [enum](ji-nian/enum/README.md)
     * [enum 變成array使用](ji-nian/enum/enum-bian-cheng-array-shi-yong.md)
     * [多用途的enum](ji-nian/enum/duo-yong-tu-de-enum.md)
+  * [Convenience initializer & Designated Initializer](ji-nian/convenience-initializer-and-designated-initializer.md)
   * [iOS 13 一次處理modalPresentationStyle = .fullScreen的解決方式](ji-nian/yi-ci-chu-li-modalpresentationstyle-.fullscreen-de-jie-jue-fang-shi.md)
   * [泛型 Generics](ji-nian/fan-xing-generics.md)
   * [KVO\(Key-Value-Observation\)](ji-nian/kvo-key-value-observation.md)
