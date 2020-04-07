@@ -2,6 +2,8 @@
 
 * [Intro.](README.md)
 * [SWIFT 實作相關](study/README.md)
+  * [View橫跨SplitViewController](study/view-heng-kua-splitviewcontroller.md)
+  * [調整ViewController預設大小](study/diao-zheng-viewcontroller-yu-she-da-xiao.md)
   * [點有沒有在多邊形內](study/dian-you-mei-you-zai-duo-bian-xing-nei.md)
   * [顯示自訂的UIColor](study/xian-shi-zi-ding-de-uicolor.md)
   * [計時器觸發](study/ji-shi-qi-chu-fa.md)
@@ -59,6 +61,7 @@
     * [UIImage上面加一個浮水印](study/uiimage/uiimage-shang-mian-jia-yi-ge-fu-shui-yin.md)
     * [UIImage to Data](study/uiimage/uiimage-to-data.md)
   * [UITableView](study/uitableview/README.md)
+    * [prepareForSegue not called when register nib for custom UITableViewCell](study/uitableview/prepareforsegue-not-called-when-register-nib-for-custom-uitableviewcell.md)
     * [在TableView客製cell的時候加上UITapGestureRecognizer, cell無法被觸發](study/uitableview/zai-tableview-ke-zhi-cell-de-shi-hou-jia-shang-uitapgesturerecognizer-cell-wu-fa-bei-chu-fa.md)
     * [關閉tableview cell highlight color](study/uitableview/guan-bi-tableview-cell-highlight-color.md)
     * [關閉點擊時的底色](study/uitableview/guan-bi-dian-ji-shi-de-di-se.md)
