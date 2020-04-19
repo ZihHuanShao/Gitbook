@@ -2,6 +2,7 @@
 
 * [Intro.](README.md)
 * [SWIFT 實作相關](study/README.md)
+  * [移除containerView的subViews](study/yi-chu-containerview-de-subviews.md)
   * [View橫跨SplitViewController](study/view-heng-kua-splitviewcontroller.md)
   * [調整ViewController預設大小](study/diao-zheng-viewcontroller-yu-she-da-xiao.md)
   * [點有沒有在多邊形內](study/dian-you-mei-you-zai-duo-bian-xing-nei.md)
