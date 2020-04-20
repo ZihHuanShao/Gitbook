@@ -69,6 +69,7 @@
     * [客製化TableViewCell](study/uitableview/ke-hua-tableviewcell.md)
     * [如何讓使用者刪除\(向左滑\)TableView的Cell](study/uitableview/ru-he-shi-yong-zhe-chu-xiang-zuo-hua-tableview-de-cell.md)
     * [TableView 顯示資料順序相反](study/uitableview/tableview-shi-liao-xu-xiang-fan.md)
+    * [移除多餘cell的底線](study/uitableview/yi-chu-duo-yu-cell-de-di-xian.md)
   * [轉場/推頁 相關](study/zhuan-chang-tui-ye-xiang-guan/README.md)
     * [連續dismiss](study/zhuan-chang-tui-ye-xiang-guan/lian-xu-dismiss.md)
     * [View 轉場效果](study/zhuan-chang-tui-ye-xiang-guan/view-xiao-guo.md)
