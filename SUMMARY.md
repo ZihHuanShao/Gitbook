@@ -2,6 +2,7 @@
 
 * [Intro.](README.md)
 * [SWIFT 實作相關](study/README.md)
+  * [圖片\(UIImage\)模糊化](study/tu-pian-uiimage-mo-hu-hua.md)
   * [移除containerView的subViews](study/yi-chu-containerview-de-subviews.md)
   * [View橫跨SplitViewController](study/view-heng-kua-splitviewcontroller.md)
   * [調整ViewController預設大小](study/diao-zheng-viewcontroller-yu-she-da-xiao.md)
