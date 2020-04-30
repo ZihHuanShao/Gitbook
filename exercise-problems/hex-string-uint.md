@@ -29,5 +29,7 @@ let test2UInt = UInt("55") // "55" -> 55
 
 {% embed url="https://stackoverflow.com/questions/41843262/convert-hex-color-as-string-to-uint" %}
 
+{% embed url="https://stackoverflow.com/questions/30382414/swift-how-to-convert-string-to-uint" %}
+
 
 
