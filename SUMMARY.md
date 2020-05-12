@@ -30,6 +30,7 @@
   * [轉場後回到上一頁，所選擇項目的底色不會消失](study/hui-dao-shang-yi-suo-mu-de-di-se-bu-xiao-shi.md)
   * [讓鍵盤跳出來、掉下的方法](study/tiao-chu-diao-xia-de-fang-fa.md)
   * [變更狀態列文字顏色](study/geng-lie-wen-zi-se.md)
+  * [取得狀態列高度](study/qu-de-zhuang-tai-lie-gao-du.md)
   * [按下return移到下個文字欄位](study/an-xia-return-yi-dao-xia-wen-zi-wei.md)
   * [如何移除3D Touch Quick Actions\(Dynamic\)的特定元素](study/ru-he-yi-chu-3d-touch-quick-actionsdynamic-de-te-ding-yuan-su.md)
   * [開啟safari瀏覽網址](study/safari-zhi.md)
