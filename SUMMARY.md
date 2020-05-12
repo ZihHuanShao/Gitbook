@@ -2,6 +2,7 @@
 
 * [Intro.](README.md)
 * [SWIFT 實作相關](study/README.md)
+  * [present ViewController in iOS 13](study/present-viewcontroller-in-ios-13.md)
   * [讓GMSMarker從中心點連接而不是底部](study/rang-gmsmarker-cong-zhong-xin-dian-lian-jie-er-bu-shi-di-bu.md)
   * [UIView to UIImageView](study/uiview-to-uiimageview.md)
   * [圖片\(UIImage\)模糊化](study/tu-pian-uiimage-mo-hu-hua.md)
