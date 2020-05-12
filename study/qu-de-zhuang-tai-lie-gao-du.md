@@ -2,7 +2,7 @@
 
 ```swift
 // 取得不同機型的statusBar高度
-        let statusBarHeight = UIApplication.shared.statusBarFrame.size.height
+let statusBarHeight = UIApplication.shared.statusBarFrame.size.height
 ```
 
 ## Ref.
