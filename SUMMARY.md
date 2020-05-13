@@ -15,6 +15,7 @@
   * [Opposite of bringSubviewToFront?](study/opposite-of-bringsubviewtofront.md)
   * [bringSubview\(toFront:\) 沒有作用](study/bringsubviewtofront-mei-you-zuo-yong.md)
   * [Timer循環計時](study/timer.md)
+  * [Timer.scheduledTimer 的selector如何傳遞參數](study/timer.scheduledtimer-de-selector-ru-he-chuan-di-can-shu.md)
   * [Error handling \(錯誤處理\)範例](study/li-li.md)
   * [Tabbed Application \(Tab Bar Controller\)](study/tabbed-application.md)
   * [WKWebView 顯示網頁](study/wkwebview-shi.md)
