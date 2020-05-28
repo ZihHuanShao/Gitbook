@@ -131,7 +131,7 @@ extension ViewController: UIScrollViewDelegate {
                     self.dataList += Array(repeating: "", count: 6)
                     self.pageStatus = .NotLoadingMore
                     
-                    // 最後一次reload, 更新畫面
+                    // 更新畫面
                     self.tableView.reloadData()
                 }
             }
