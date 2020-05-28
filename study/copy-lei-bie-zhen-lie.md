@@ -1,6 +1,6 @@
 # copy類別陣列
 
-以下做法會變為value type，拷貝後互不影響
+一般來說類別陣列都是以reference type，不過以下做法為value type，拷貝後互不影響
 
 ## Ref.
 
