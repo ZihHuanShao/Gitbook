@@ -178,6 +178,7 @@
   * [Hex String ↔ UInt](exercise-problems/hex-string-uint.md)
   * [取得現在時間\(TW\) GMT +8](exercise-problems/qu-de-xian-zai-shi-jian-tw-gmt-+8.md)
   * [Data大小](exercise-problems/untitled.md)
+  * [找陣列index](exercise-problems/zhao-zhen-lie-index.md)
 * [ObjC 基本](objc-yu-fa/README.md)
   * [@property與@synthesize](objc-yu-fa/property-yu-synthesize.md)
   * [enumerateObjectsUsingBlock](objc-yu-fa/objc.md)
