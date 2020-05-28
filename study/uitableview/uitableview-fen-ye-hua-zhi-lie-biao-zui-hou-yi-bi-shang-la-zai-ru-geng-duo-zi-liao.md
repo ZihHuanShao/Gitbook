@@ -3,12 +3,7 @@
 ```swift
 //
 //  ViewController.swift
-//  tableViewReloadTest
 //
-//  Created by kokome maxkit on 2020/5/25.
-//  Copyright © 2020 kokome maxkit. All rights reserved.
-//
-
 
 //
 // UITableView 分頁、滑至列表最後一筆上拉載入更多資料
@@ -90,7 +85,7 @@ extension UITableView {
         UIView.animate(
             withDuration: 0,
             animations: {
-                // 第一次reload, 讓tableView cell render indicator動畫, 等render完成後會執行到94行
+                // 第一次reload, 讓tableView cell render indicator動畫, 等render完成後會執行到88行
                 self.reloadData()
             }) {
                 // 第二次reload入口
@@ -124,14 +119,12 @@ extension ViewController: UIScrollViewDelegate {
             // 第一次reload入口
             self.tableView.reloadData {
                 
-                // 第二次reload, 再載入新的六筆資料, 並將狀態改為NotLoadingMore
                 // 模擬 Call API 的時間
                 DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
                     
+                    // 第二次reload, 再載入新的六筆資料, 並將狀態改為NotLoadingMore
                     self.dataList += Array(repeating: "", count: 6)
                     self.pageStatus = .NotLoadingMore
-                    
-                    // 更新畫面
                     self.tableView.reloadData()
                 }
             }
