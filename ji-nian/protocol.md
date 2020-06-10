@@ -35,7 +35,9 @@ description: 在SWIFT底下的類別只能單一繼承，要多重繼承主要�
       </td>
     </tr>
   </tbody>
-</table>### **Class範例**
+</table>
+
+### **Class範例**
 
 1. 子類別`Batman`繼承父類別`Man`
 2. 子類別`Superman`繼承父類別`Man`

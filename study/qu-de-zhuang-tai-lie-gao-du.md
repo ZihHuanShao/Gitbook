@@ -7,7 +7,5 @@ let statusBarHeight = UIApplication.shared.statusBarFrame.size.height
 
 ## Ref.
 
-{% embed url="https://stackoverflow.com/questions/12991935/how-to-programmatically-get-ios-status-bar-height" %}
-
-
+{% embed url="https://stackoverflow.com/questions/12991935/how-to-programmatically-get-ios-status-bar-height" caption="" %}
 

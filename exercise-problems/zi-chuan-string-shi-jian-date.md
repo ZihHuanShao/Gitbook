@@ -43,7 +43,7 @@ print("strFormat: ", strFormat)
 
 印出結果：
 
-`dateFormat: 2019-08-21 08:38:58 +0000  
+`dateFormat: 2019-08-21 08:38:58 +0000    
 strFormat: 2019-08-21 08:38:58.133`
 
 我轉的`time`字串有帶小數點，雖然轉成`date`格式，小數點不會顯示。但若再次將`date`格式轉回字串，可以發現仍然會保留小數點的值
@@ -54,36 +54,28 @@ strFormat: 2019-08-21 08:38:58.133`
     private func getTimeDifference(from dateTime1: String, to dateTime2: String) -> Int? {
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "yyyy-MM-dd HH:mm:ss"
-        
+
         let date1 = dateFormatter.date(from: dateTime1)
         let date2 = dateFormatter.date(from: dateTime2)
-        
+
         // 可以選擇計算時間差的其他格式, 因為我只需要知道兩時間之間的秒數, 所以只選擇.second
         // let components : NSCalendar.Unit = [.second, .minute, .hour, .day, .weekOfMonth, .month, .year]
         let components: NSCalendar.Unit = [.second]
         let difference = (Calendar.current as NSCalendar).components(components, from: date1!, to: date2!, options: [])
-        
+
         print("difference: \(difference)")
-        
+
         return difference.second
     }
 ```
 
 印出的結果會根據所選擇的`components`格式而不同
 
-
-
 ## Ref.
 
-
-
-{% embed url="https://www.hangge.com/blog/cache/detail\_2182.html" %}
+{% embed url="https://www.hangge.com/blog/cache/detail\_2182.html" caption="" %}
 
 {% embed url="https://stackoverflow.com/questions/35700281/date-format-in-swift" caption="Date格式" %}
 
-{% embed url="https://www.itdaan.com/tw/8d0e3c01b30cff52c12e1055939ce305" %}
-
-
-
-
+{% embed url="https://www.itdaan.com/tw/8d0e3c01b30cff52c12e1055939ce305" caption="" %}
 

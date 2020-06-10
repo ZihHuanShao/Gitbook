@@ -2,7 +2,6 @@
 
 * [Intro.](README.md)
 * [SWIFT 實作相關](study/README.md)
-  * [copy類別陣列](study/copy-lei-bie-zhen-lie.md)
   * [present ViewController in iOS 13](study/present-viewcontroller-in-ios-13.md)
   * [讓GMSMarker從中心點連接而不是底部](study/rang-gmsmarker-cong-zhong-xin-dian-lian-jie-er-bu-shi-di-bu.md)
   * [UIView to UIImageView](study/uiview-to-uiimageview.md)
@@ -179,6 +178,8 @@
   * [取得現在時間\(TW\) GMT +8](exercise-problems/qu-de-xian-zai-shi-jian-tw-gmt-+8.md)
   * [Data大小](exercise-problems/untitled.md)
   * [找陣列index](exercise-problems/zhao-zhen-lie-index.md)
+  * [copy類別陣列](exercise-problems/copy-lei-bie-zhen-lie.md)
+  * [字串、元組、陣列、集合、字典](exercise-problems/zi-chuan-yuan-zu-zhen-lie-ji-he-zi-dian.md)
 * [ObjC 基本](objc-yu-fa/README.md)
   * [@property與@synthesize](objc-yu-fa/property-yu-synthesize.md)
   * [enumerateObjectsUsingBlock](objc-yu-fa/objc.md)

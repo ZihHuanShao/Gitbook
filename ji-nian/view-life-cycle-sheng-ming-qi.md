@@ -169,7 +169,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
       </td>
     </tr>
   </tbody>
-</table>下面圖示：透過轉場到另一個新增的View controller，就可以看出下面的執行狀況了
+</table>
+
+下面圖示：透過轉場到另一個新增的View controller，就可以看出下面的執行狀況了
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 

@@ -32,7 +32,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">
@@ -47,7 +49,9 @@
     </tr>
   </thead>
   <tbody></tbody>
-</table>| 座標：`CLLocationCoordinate2D` 縮放範圍：`MKCoordinateSpan` | ➔ | 整體顯示範圍：`MKCoordinateRegion` |
+</table>
+
+| 座標：`CLLocationCoordinate2D` 縮放範圍：`MKCoordinateSpan` | ➔ | 整體顯示範圍：`MKCoordinateRegion` |
 | :--- | :--- | :--- |
 
 
