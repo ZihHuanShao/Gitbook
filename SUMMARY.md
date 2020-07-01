@@ -140,6 +140,7 @@
   * [關於協定的init](ji-nian/ding-de-init-san-shi.md)
   * [Navigation + Tabbar Controller混搭](ji-nian/navigation-+-tabbar-controller-hun-da.md)
   * [何謂MVC？](ji-nian/he-mvc.md)
+  * [為程式碼加入註解](ji-nian/wei-cheng-shi-ma-jia-ru-zhu-jie.md)
   * [iOS 11 SDK新功能](ji-nian/ios-11-sdk-xin-gong-neng.md)
   * [swiftUI](ji-nian/swiftui.md)
   * [Property \(屬性\)](ji-nian/property-xing/README.md)
