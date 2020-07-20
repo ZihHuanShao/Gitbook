@@ -190,6 +190,7 @@
   * [要求麥克風權限](objc-yu-fa/yao-qiu-mai-ke-feng-quan-xian.md)
 * [Third-party Library](di-san-fang/README.md)
   * [SQLite.swift](di-san-fang/sqlite.swift/README.md)
+    * [protobuf tool](di-san-fang/sqlite.swift/protobuf-tool.md)
     * [遇到No such table code : 1](di-san-fang/sqlite.swift/sqlite.swift-yu-dao-no-such-table-code-1.md)
     * [Binding ➜ Int](di-san-fang/sqlite.swift/binding-to-int.md)
 * [Tools](tools/README.md)
