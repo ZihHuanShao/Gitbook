@@ -150,6 +150,7 @@
   * [Property \(屬性\)](ji-nian/property-xing/README.md)
     * [lazy的儲存屬性](ji-nian/property-xing/lazy-de-cun-xing.md)
 * [環境問題](yu-dao-de/README.md)
+  * [how multiple targets in podfile work](yu-dao-de/how-multiple-targets-in-podfile-work.md)
   * [部分stash](yu-dao-de/bu-fen-stash.md)
   * [如何產生p12憑證檔](yu-dao-de/ru-he-chan-sheng-p12-ping-zheng-dang.md)
   * [github顯示程式語言問題](yu-dao-de/github-xian-shi-cheng-shi-yu-yan-wen-ti.md)
