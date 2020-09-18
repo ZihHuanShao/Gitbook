@@ -238,6 +238,7 @@
     * [jQ CSS 屬性](javascript-jquery/jquery/untitled.md)
     * [JQ 多國語言i18n](javascript-jquery/jquery/jq-duo-guo-yu-yan-i18n.md)
     * [jQuery取Radio的值](javascript-jquery/jquery/jquery-qu-radio-de-zhi.md)
+    * [取得今天日期時間](javascript-jquery/jquery/qu-de-jin-tian-ri-qi-shi-jian.md)
     * [取得CHECK BOX的值](javascript-jquery/jquery/qu-de-check-box-de-zhi.md)
   * [建立text的方式](javascript-jquery/jian-li-wen-zi-biao-qian.md)
   * [Event](javascript-jquery/event.md)
