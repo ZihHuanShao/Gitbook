@@ -229,6 +229,7 @@
     * [on: Attach multiple event handlers](javascript-jquery/jquery/on-attach-multiple-event-handlers.md)
     * [for-loop 建立高重複性的物件](javascript-jquery/jquery/forloop-jian-li-gao-zhong-fu-xing-de-wu-jian.md)
     * [動態物件click方法](javascript-jquery/jquery/dong-tai-wu-jian-click-fang-fa.md)
+    * [checkbox 'change' event](javascript-jquery/jquery/checkbox-change-event.md)
     * [取表單\(radio, checkbox, select\)元素](javascript-jquery/jquery/qu-biao-chan-radio-checkbox-select-yuan-su.md)
     * [add image inside of div tag](javascript-jquery/jquery/add-image-inside-of-div-tag.md)
     * [修改欄位文字](javascript-jquery/jquery/gai-lan-wei-wen-zi.md)
