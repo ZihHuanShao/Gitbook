@@ -244,6 +244,7 @@
     * [取得今天日期時間](javascript-jquery/jquery/qu-de-jin-tian-ri-qi-shi-jian.md)
     * [取得CHECK BOX的值](javascript-jquery/jquery/qu-de-check-box-de-zhi.md)
     * [convert string to date](javascript-jquery/jquery/convert-string-to-date.md)
+    * [鍵盤Enter事件](javascript-jquery/jquery/jian-pan-enter-shi-jian.md)
   * [建立text的方式](javascript-jquery/jian-li-wen-zi-biao-qian.md)
   * [Event](javascript-jquery/event.md)
   * [如何disable &lt;input&gt;元件？](javascript-jquery/ru-he-disable-input-yuan-jian.md)
