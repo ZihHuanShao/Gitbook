@@ -42,6 +42,8 @@
 </html>
 ```
 
+另外`Esc`的`keycode=27`
+
 ## Ref.
 
 {% embed url="https://howtodoinjava.com/jquery/jquery-detect-if-enter-key-is-pressed/" %}
