@@ -48,6 +48,7 @@
   * [initial view controller的選擇](study/initial-view-controller-de.md)
   * [NSLayoutConstraint參數說明](study/untitled.md)
   * [Timer](study/timer-1/README.md)
+    * [各種timer方式](study/timer-1/ge-zhong-timer-fang-shi.md)
     * [Timer.scheduledTimer 的selector如何傳遞參數](study/timer-1/timer.scheduledtimer-de-selector-ru-he-chuan-di-can-shu.md)
     * [計時器觸發](study/timer-1/ji-shi-qi-chu-fa.md)
     * [timer傳值](study/timer-1/timer-chuan-zhi.md)
