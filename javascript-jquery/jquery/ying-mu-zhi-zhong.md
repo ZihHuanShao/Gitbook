@@ -4,9 +4,9 @@
 element.style {
     display: block;
     position: absolute;
-    width: 50%; // width須為margin-left的兩倍
-    top: 50%;   // top須為margin-top的兩倍
-    left: 50%;  // lef須為margin-left的兩倍
+    width: 50%; /* width須為margin-left的兩倍 */
+    top: 50%;   /* top須為margin-top的兩倍 */
+    left: 50%;  /* lef須為margin-left的兩倍 */
     margin-top: -25%;
     margin-left: -25%; 
 }
