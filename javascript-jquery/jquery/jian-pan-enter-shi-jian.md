@@ -42,11 +42,13 @@
 </html>
 ```
 
-另外`Esc`的`keycode=27`
+另外`Esc`的`keycode=27`，這是舊方式已經被deprecate了。若要觸發`Esc`事件要使用`Keydown`，請參考下面連結
 
 ## Ref.
 
-{% embed url="https://howtodoinjava.com/jquery/jquery-detect-if-enter-key-is-pressed/" %}
+{% embed url="https://howtodoinjava.com/jquery/jquery-detect-if-enter-key-is-pressed/" caption="Enter event" %}
+
+{% embed url="https://www.geeksforgeeks.org/how-to-detect-escape-key-press-using-jquery/" caption="Esc event" %}
 
 
 
