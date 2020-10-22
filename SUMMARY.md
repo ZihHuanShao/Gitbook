@@ -246,6 +246,7 @@
     * [convert string to date](javascript-jquery/jquery/convert-string-to-date.md)
     * [鍵盤Enter事件](javascript-jquery/jquery/jian-pan-enter-shi-jian.md)
     * [螢幕置中](javascript-jquery/jquery/ying-mu-zhi-zhong.md)
+    * [移除字串字元](javascript-jquery/jquery/yi-chu-zi-chuan-zi-yuan.md)
   * [建立text的方式](javascript-jquery/jian-li-wen-zi-biao-qian.md)
   * [Event](javascript-jquery/event.md)
   * [如何disable &lt;input&gt;元件？](javascript-jquery/ru-he-disable-input-yuan-jian.md)
