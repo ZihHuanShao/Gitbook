@@ -1,6 +1,6 @@
 # GoogleMap Api: Geocoding
 
-目的是希望透過輸入任意地址或地名，能夠獲得相對應的經緯度，並再透過經緯資訊將畫面導到該位址上。
+**目的是希望透過輸入任意地址或地名，能夠獲得相對應的經緯度**，並再透過經緯資訊將畫面導到該位址上。
 
 API example`https://maps.googleapis.com/maps/api/geocode/json?address=台中美術館&key=API_KEY`
 
