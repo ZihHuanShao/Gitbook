@@ -251,6 +251,7 @@
     * [移除字串字元](javascript-jquery/jquery/yi-chu-zi-chuan-zi-yuan.md)
     * [Date轉String\(yyyy-mm-dd\)](javascript-jquery/jquery/date-zhuan-stringyyyymmdd.md)
     * [自訂檢查輸入值](javascript-jquery/jquery/zi-ding-jian-cha-shu-ru-zhi.md)
+    * [字串操作](javascript-jquery/jquery/zi-chuan-cao-zuo.md)
   * [建立text的方式](javascript-jquery/jian-li-wen-zi-biao-qian.md)
   * [Event](javascript-jquery/event.md)
   * [如何disable &lt;input&gt;元件？](javascript-jquery/ru-he-disable-input-yuan-jian.md)
