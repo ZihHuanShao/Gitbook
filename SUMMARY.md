@@ -254,6 +254,7 @@
     * [字串操作](javascript-jquery/jquery/zi-chuan-cao-zuo.md)
     * [動態建立button within type, id, class, event](javascript-jquery/jquery/dong-tai-jian-li-button-within-type-id-class-event.md)
     * [remove object in array](javascript-jquery/jquery/remove-object-in-array.md)
+    * [ajax post with array](javascript-jquery/jquery/ajax-post-with-array.md)
   * [建立text的方式](javascript-jquery/jian-li-wen-zi-biao-qian.md)
   * [Event](javascript-jquery/event.md)
   * [如何disable &lt;input&gt;元件？](javascript-jquery/ru-he-disable-input-yuan-jian.md)
