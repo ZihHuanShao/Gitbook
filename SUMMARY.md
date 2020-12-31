@@ -2,6 +2,7 @@
 
 * [Intro.](README.md)
 * [SWIFT 實作相關](study/README.md)
+  * [隱藏splitViewController分割線](study/yin-cang-splitviewcontroller-fen-ge-xian.md)
   * [字串 包含特殊字元](study/zi-chuan-bao-han-te-shu-zi-yuan.md)
   * [DatePicker View](study/datepicker-view.md)
   * [設定特定方位的圓角](study/she-ding-te-ding-fang-wei-de-yuan-jiao.md)
@@ -255,6 +256,7 @@
     * [動態建立button within type, id, class, event](javascript-jquery/jquery/dong-tai-jian-li-button-within-type-id-class-event.md)
     * [remove object in array](javascript-jquery/jquery/remove-object-in-array.md)
     * [ajax post with array](javascript-jquery/jquery/ajax-post-with-array.md)
+  * [canvas render image](javascript-jquery/canvas-render-image.md)
   * [建立text的方式](javascript-jquery/jian-li-wen-zi-biao-qian.md)
   * [Event](javascript-jquery/event.md)
   * [如何disable &lt;input&gt;元件？](javascript-jquery/ru-he-disable-input-yuan-jian.md)
