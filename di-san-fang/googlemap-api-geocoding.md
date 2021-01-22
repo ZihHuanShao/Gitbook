@@ -12,6 +12,10 @@ API example`https://maps.googleapis.com/maps/api/geocode/json?address=台中美�
 
 若上述步驟都已完成，可將上面網址直接貼到瀏覽器看傳送結果。
 
+### Debug
+
+當回傳**`INVALID_REQUEST`**時，可以將要request的字串 \(如`https://maps.googleapis.com/maps/api/geocode/json?address=台中美術館&key=API_KEY`\)，直接貼在瀏覽器的網址列上執行看看，會告訴我們錯誤的因素。
+
 ### Response
 
 ```javascript
