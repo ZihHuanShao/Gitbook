@@ -19,7 +19,7 @@
 loginButton.loginTracking = .limited
 ```
 
-若使用`.limited`，允許的權限只有`email, public_profile, gaming_profile, gaming_user_picture`套用方式`EX: loginButton.permissions = ["public_profile"]`
+若使用`.limited`，允許的權限只有`email, public_profile, gaming_profile, gaming_user_picture`套用方式`EX: loginButton.permissions = ["public_profile","email"]`
 
 ### 驗證登入狀態
 
