@@ -199,6 +199,7 @@
   * [FB](di-san-fang/fb/README.md)
     * [ios-sim does not work](di-san-fang/fb/ios-sim-does-not-work.md)
     * [Facebook SDK for Login](di-san-fang/fb/facebook-sdk-for-login.md)
+    * [Update Facebook SDK \(9.0\)](di-san-fang/fb/update-facebook-sdk-9.0.md)
   * [GoogleMap Api: Geocoding](di-san-fang/googlemap-api-geocoding.md)
   * [APNG](di-san-fang/apng.md)
   * [SQLite.swift](di-san-fang/sqlite.swift/README.md)
