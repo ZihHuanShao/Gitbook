@@ -172,3 +172,9 @@ aTenant.delegate    = aLandlordA
 aTenant.rentToPay()
 ```
 
+## Ref.
+
+{% embed url="https://itisjoe.gitbooks.io/swiftgo/content/ch2/protocols.html" caption="more detail" %}
+
+
+
